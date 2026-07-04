@@ -33,6 +33,7 @@ Clone the repository:
 git clone https://github.com/DeveloperHeat/Custom-Lightweight-Stream-Processing-Language.git
 cd Custom-Lightweight-Stream-Processing-Language
 ```
+**Note:** You will need two terminal windows open simultaneously: one to keep the Java backend running, and one to run the React development server.
 
 Compile the source code:
 

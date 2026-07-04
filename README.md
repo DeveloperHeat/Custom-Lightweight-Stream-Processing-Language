@@ -21,6 +21,7 @@ This project is built entirely from scratch in Java and uses React for the front
 ### Prerequisites
 
 - Java Development Kit (JDK) **17** or later
+- Node.js and npm is installed
 
 ---
 

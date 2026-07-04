@@ -127,7 +127,7 @@ State is managed through an `Environment` object, allowing functions and runtime
 
 ---
 
-## Extending The Projecr
+## Extending The Project
 
 Adding new built-in operations is straightforward.
 

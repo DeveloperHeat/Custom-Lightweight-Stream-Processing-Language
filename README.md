@@ -75,7 +75,7 @@ defun triple {
 ### Execute a pipeline
 
 ```
-// 10 -> (10×2×2×2) = 80 -> (80+6) = 86
+## 10 -> (10×2×2×2) = 80 -> (80+6) = 86
 
 10 |> transform |> triple |> add |> log
 ```

@@ -11,9 +11,6 @@ public class Environment {
     private final List<String> todoList = new ArrayList<>();
     private final Map<String, List<Expression>> userFunctions = new HashMap<>();
 
-    // Update your Variable/Function evaluation logic to check this map!
-    // (As we discussed previously, this is where you execute the body)
-
     public Environment() {
         functions.put("log", x -> { System.out.println("LOG: " + x); return x; });
         functions.put("square", x -> x * x);
